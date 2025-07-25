@@ -40,19 +40,28 @@ void main() {
 
   // Q7: 15 List methods
   List<int> nums = [10, 20, 30, 40, 50];
-  print('\nQ7: Using 15 List Methods:');
+  print('\nQ7: Using 15 List Methods: $nums');
 
   nums.add(60); // 1
+  print(nums);
   nums.addAll([70, 80]); // 2
+  print(nums);
   nums.insert(0, 5); // 3
+  print(nums);
   nums.insertAll(2, [15, 25]); // 4
+  print(nums);
   nums.remove(40); // 5
+  print(nums);
   nums.removeAt(1); // 6
+  print(nums);
   nums.removeLast(); // 7
+  print(nums);
   nums.removeRange(0, 2); // 8
+  print(nums);
   print('Index of 30: ${nums.indexOf(30)}'); // 9
   print('Contains 50? ${nums.contains(50)}'); // 10
   nums.sort(); // 11
+  print(nums);
   print('Reversed: ${nums.reversed.toList()}'); // 12
   print('Sublist (0–3): ${nums.sublist(0, 3)}'); // 13
   nums.shuffle(); // 14
