@@ -1,4 +1,5 @@
 void main() {
+  
   // Q1: List of names
   List<String> names = ['Muhammad', 'Mubashir', 'Shahid', 'Jahanzaib'];
   print('Q1: All Names:');
@@ -37,7 +38,7 @@ void main() {
   print('\nQ6: Original List: $originalList');
   print('Reversed List: $reversedList');
 
-  // Q7: 15 List methods (excluding retainWhere and removeWhere)
+  // Q7: 15 List methods
   List<int> nums = [10, 20, 30, 40, 50];
   print('\nQ7: Using 15 List Methods:');
 
