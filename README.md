@@ -2,6 +2,9 @@
 
 This repository contains beginner-friendly Dart programs that demonstrate how to work with **lists**. Each question is implemented using Dart’s built-in list features and is a great way to learn basic data structures and list manipulation techniques.
 
+<img width="947" height="818" alt="image" src="https://github.com/user-attachments/assets/3c30c0bb-8a89-4ebc-bfc0-e8bfb2e28fa5" />
+
+
 ---
 
 ## 📘 Questions Solved
