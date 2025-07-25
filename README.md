@@ -63,7 +63,7 @@ git clone [https://github.com/muhammadmubashir24/Dart-Basics-Assignments-4.git]
 cd list-practice-dart
 
 # Run the program
-dart list_tasks.dart
+dart main.dart
 ```
 
 ### 👤 Author
