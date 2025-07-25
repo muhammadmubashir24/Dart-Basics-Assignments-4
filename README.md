@@ -59,7 +59,7 @@ Demonstrate usage of 15 Dart list methods (excluding `retainWhere` and `removeWh
 ### 💻 Option 2: Local Machine
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/list-practice-dart.git
+git clone [https://github.com/muhammadmubashir24/Dart-Basics-Assignments-4.git]
 cd list-practice-dart
 
 # Run the program
