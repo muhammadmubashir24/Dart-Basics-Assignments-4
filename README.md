@@ -70,8 +70,9 @@ dart main.dart
 ```
 
 ### 👤 Author
-#Muhammad Mubashir
-##🎓 BSCS Graduate | 💻 WordPress & Flutter Developer
-🔗 LinkedIn
-🐙 GitHub
+Muhammad Mubashir
+🎓 BSCS Graduate | 💻 WordPress & Flutter Developer
+
+🔗 LinkedIn - https://pk.linkedin.com/in/mmubashir24
+🐙 GitHub - https://github.com/muhammadmubashir24/
 
