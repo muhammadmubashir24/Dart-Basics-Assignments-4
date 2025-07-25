@@ -53,14 +53,14 @@ Demonstrate usage of 15 Dart list methods (excluding `retainWhere` and `removeWh
 
 ### 🧪 Option 1: DartPad (Recommended for Beginners)
 1. Go to [DartPad](https://dartpad.dev)
-2. Copy the code from `list_tasks.dart`
+2. Copy the code from `main.dart`
 3. Paste it into DartPad and click **Run**
 
 ### 💻 Option 2: Local Machine
 ```bash
 # Clone the repo
 git clone [https://github.com/muhammadmubashir24/Dart-Basics-Assignments-4.git]
-cd list-practice-dart
+cd Dart-Basics-Assignments-4
 
 # Run the program
 dart main.dart
